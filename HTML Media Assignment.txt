@@ -1,0 +1,96 @@
+Basic Questions Web Development
+-------------------------------
+
+1. What is HTML ?
+Ans: 
+HTML stands for Hypertext Markup Language. It's a programming language that defines the structure and content of web pages. HTML is the standard markup language for Web pages.
+HTML elements are the building blocks of HTML pages. HTML elements are represented by <> tags. HTML is a text-based approach that tells a web browser how to display text, images, 
+and other multimedia on a webpage. 
+
+A simple example of HTML is :
+<!DOCTYPE>
+<html>
+<head>
+<title>Physics Wallah</title>
+</head>
+<body>
+<h1>HTML Media Assignment</h1>
+<p>Payel Jana</p>
+</body>
+</html>
+
+Output:
+
+Physics Wallah ( <title> tag is used to add title of that HTML page which appears at the top of the browser window. )
+HTML Media Assignment ( <h1> tag describes the first level heading of the webpage. )
+Payel Jana ( <p> tag describes the paragraph of the webpage. )
+
+
+2. What is CSS ?
+Ans:
+CSS stands for Cascading Style Sheets. It is a style sheet language which is used to describe the look and formatting of a document written in markup language. 
+It provides an additional feature to HTML. It is generally used with HTML to change the style of web pages and user interfaces. It can also be used with any kind
+of XML documents including plain XML, SVG and XUL. 
+CSS is used along with HTML and JavaScript in most websites to create user interfaces for web applications and user interfaces for many mobile applications.
+
+CSS can do :
+We can add new looks to our old HTML documents.
+We can completely change the look of our website with only a few changes in CSS code.
+
+3. What is the difference between front-end and back-end development ?
+Ans:
+Essentially, the difference between frontend and backend web development is that frontend serves the client side (what we see on the front i.e. a screen) and backend 
+supports the server side (what’s under the hood of a website).
+
+Frontend Development :  
+
+This is known as Client side.
+Language used HTML, CSS, JavaScript.
+Tools used like Express, Angular, JQuery, Django, SASS.
+
+Backend Development :
+
+This is known as Server side.
+Language used Ruby, JavaScript, Python, Java.
+Tools used like Node.js, MongoDB, Flask, PostgreSQL.
+
+Frontend and Backend both play very important roles in web development.
+
+4. What is JavaScript ?
+Ans:
+JavaScript (JS) is a text-based programming language used both on the client-side and server-side that allows us to make web pages interactive. It is one of the 
+three core technologies of World Wide Web content production (along with HTML and CSS).
+
+JavaScript is used to make web pages interactive and can be used to add dynamic content, animations, and other features to websites. It is also used to create web 
+applications and games.
+
+JavaScript is a high-level, interpreted programming language. This means that it is relatively easy to learn and use, and that it does not need to be compiled before 
+it can be run. JavaScript is also a very versatile language, and can be used for a wide variety of tasks.
+
+JavaScript can be used for:
+
+i. Adding dynamic content to web pages, such as menus, forms, and data tables.
+ii. Creating animations and other visual effects.
+iii. Validating user input.
+
+JavaScript is a powerful language that can be used to create a wide variety of interactive web pages and web applications.
+
+5. What is a responsive web design ?
+Ans:
+Responsive web design (RWD) is a design approach that allows websites to automatically adapt to the screen size of the device they are being viewed on. 
+The goal is to ensure that the website retains its optimal appearance and usability regardless of the device it's being viewed on. 
+
+Responsive Web Design uses a combination of flexible grids and layouts, images, and CSS media queries. 
+ It also uses fluid grids and fluid layouts. 
+ Fluid grids are grid systems that scale based on the user's screen, ensuring that all elements resize in relation to one another. 
+ Fluid layouts use relative units and percentages to define the size and positioning of elements within a website's layout. 
+
+Some types of responsive web design include:
+Adaptive design.
+Fluid design.
+Fluid-responsive layout.
+
+Some elements of responsive web design include: 
+Mobile navigation, 
+Flexible visuals, 
+Fluid grids. 
